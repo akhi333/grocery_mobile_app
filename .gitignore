@@ -1,0 +1,14 @@
+# Android build files
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# IDE
+android/.idea/
+*.iml
+*.iws
+
+# Keystore files
+*.keystore
+*.jks
